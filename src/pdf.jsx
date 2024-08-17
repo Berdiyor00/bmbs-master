@@ -25,6 +25,9 @@ const PDFWithQRCode = () => {
       >
         <QRCode value="https://bmbs-master.vercel.app/" size={128} />
       </div>
+      <span>
+        
+      </span>
     </div>
   );
 };
