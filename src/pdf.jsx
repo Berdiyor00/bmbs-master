@@ -6,7 +6,7 @@ const PDFWithQRCode = () => {
     <div style={{ position: 'relative', width: '100%', height: '100vh' }}>
       {/* Embed the PDF file */}
       <embed 
-        src="/bachelor-answersss (3).pdf" 
+        src="/bachelor-answersss (4).pdf" 
         type="application/pdf" 
         style={{ width: '100%', height: '100%' }} 
       />
