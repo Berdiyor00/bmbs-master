@@ -23,7 +23,7 @@ const PDFWithQRCode = () => {
           display:'none'
         }}
       >
-        <QRCode value="https://bmbs-master.vercel.app/" size={128} />
+        <QRCode value="bmbs-master-oj5j.vercel.app" size={128} />
       </div>
       <span>
         
